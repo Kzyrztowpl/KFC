@@ -1,0 +1,12 @@
+﻿# FreeCAD temporary files
+*.FCStd1
+*.FCBak
+*.FCStd.bak
+
+# Python
+__pycache__/
+*.pyc
+
+# Windows
+Thumbs.db
+Desktop.ini
